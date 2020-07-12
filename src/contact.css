@@ -1,0 +1,105 @@
+.contact-nav{
+    padding:.5rem 200px; 
+    background-color: #133E64;
+}
+.contact-us-header{
+    display: block;
+    text-align: center;
+    background-color: #133E64;
+    font-size: 70px;
+    font-family: 'Kefa';
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.nav-link, .navbar-title, .space-shuttle{
+    color: white;
+}
+.contact-us{
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.contact-us-flex{
+    display: flex;
+}
+
+.contact-us-image-container, .contact-us-content{
+    margin-left:20px;
+    margin-right:20px;
+
+}
+
+.contact-us-image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-us-title{
+    font-size: 70px;
+    font-family: 'Kefa';
+    color: #133E64;
+}
+
+.contact-us-text{
+    font-size: 20px;
+    font-family: 'Helvetica';
+    color: #6F6F6F;
+}
+
+.contact-us-form{
+    margin-top:50px;
+}
+
+.contact-form-label{
+    font-family: 'Myanmar Sangam MN';
+    color: #6F6F6F;
+    display: block;
+    margin-bottom: 0px;
+}
+
+.contact-form-input{
+    background-color: #E8EAFF;
+    border-radius: 5px;
+    width: 100%;
+    border:1px solid #E3E2E2;
+}
+
+.contact-form-inline{
+    display: inline;
+}
+
+.contact-form-inline-block{
+    display: inline-block;
+    width: 49%;
+
+}
+
+.contact-form-block{
+    margin-bottom: 20px;
+}
+
+.contact-us-image{
+    width: 600px;
+}
+
+.contact-us-button{
+    background-color: #133E64;
+    color:white;
+    border-radius: 10px;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    border:0px
+}
+
+.contact-us-footer{
+    margin-top: 30px;
+    background: rgba(0, 0, 0, 0.815);
+    overflow-x: hidden;
+    padding: 4vmin 18vmin;
+}
